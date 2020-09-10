@@ -4,7 +4,7 @@
 This project comprises of data analysis of whole concatenated dataset which can be loaded from mysql server.Also we are solving machine learning price detection.
 
 # Dataset
-<img src="https://github.com/Abonia1/DVF/blob/master/Images/DVF_info.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/Images/DVF_info.jpg" alt="alt text" width="600" height="500">
 
 ## Installation
 * Python 3.5 
@@ -29,7 +29,7 @@ As we designed our database with three table.We created the database DVF and und
 * preprocessed_dashboard_data - Dataset that we will use to built our dashboard in Excel
 
 ## MCD-Database Schema ER diagram
-<img src="https://github.com/Abonia1/DVF/blob/master/MCD/schema_EER.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/MCD/schema_EER.jpg" alt="alt text" width="600" height="500">
 
 # 1. Business Problem
 ## 1.1 Problem Context
@@ -104,6 +104,9 @@ As we have already remove duplicates from our data so now we will check for null
     Number of rooms is null i.e there is no room so we fill nan with 0
     Our target feature 'Land value' is nan so in order to work with scikit we filter the rows with no nan value for column 'Valeur Fonciere'
     Label missing categorical data
+
+## Compare All Model
+<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/MCD/Result.jpg" alt="alt text" width="600" height="500">
 
 ## Future Work
 

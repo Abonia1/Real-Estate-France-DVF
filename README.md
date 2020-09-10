@@ -4,7 +4,7 @@
 This project comprises of data analysis of whole concatenated dataset which can be loaded from mysql server.Also we are solving machine learning price detection.
 
 # Dataset
-<img src="https://github.com/Abonia1/DVF/blob/master/images/DVF%20info.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/DVF/blob/master/Images/DVF%20info.jpg" alt="alt text" width="600" height="500">
 
 ## Installation
 * Python 3.5 

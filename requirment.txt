@@ -1,0 +1,7 @@
+Scikit-learn
+Folium
+matplotlib
+numpy
+flask
+seaborn
+pymysql

@@ -29,7 +29,7 @@ As we designed our database with three table.We created the database DVF and und
 * preprocessed_dashboard_data - Dataset that we will use to built our dashboard in Excel
 
 ## MCD-Database Schema ER diagram
-<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/MCD/schema_EER.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/Images/schema_EER.jpg" alt="DVF_schema_EER" >
 
 # 1. Business Problem
 ## 1.1 Problem Context
@@ -106,7 +106,7 @@ As we have already remove duplicates from our data so now we will check for null
     Label missing categorical data
 
 ## Compare All Model
-<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/MCD/Result.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/Real-Estate-France-DVF/blob/master/Images/Result.jpg" alt="alt text" width="600" height="500">
 
 ## Future Work
 
